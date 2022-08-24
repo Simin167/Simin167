@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simin167
-- 👀 I’m interested in emhancing my proframming skills
+- 👀 I’m interested in enhancing my proframming skills
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine kearning projects
+- 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me zaheenafroz@iut-dhaka.edu
 
 <!---
